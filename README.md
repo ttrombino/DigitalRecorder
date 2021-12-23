@@ -21,4 +21,4 @@ When recording mode is activated, the pitch and duration of each note (as well a
 Due to memory limitations, each song array is restricted to 50 notes. A note is a `struct` consisting of two 4 byte `int`s for frequency and duration. Thus, there is a total of 8 bytes per note and 400 bytes per song. 
 
 ## Breadboard Wire Diagram
-![bb](bb.jpg "Breadboard")
+![bb](bb.JPG "Breadboard")
