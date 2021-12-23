@@ -3,7 +3,9 @@
 This was the final project for UCI's Embedded Systems course where students are tasked with creating an original project 
 using the ATMega32 microcontroller by Microchip. 
 
-The digital recorder allows for the user to both play and record "songs" using a 16-key keypad and LCD screen. 
+The digital recorder allows for the user to both play and record "songs" using a 16-key keypad and LCD screen. A short video demonstration and explanation is provided in the link below. 
+
+[Video demonstration](https://youtu.be/3wSD1wcsxZw)
 
 ## Structure
 In `main.c`, frequency values of the C major scale are hard-coded for the 9 numerical buttons on the keypad (1-9). The ATMega sends high and low digital signals to the attached speaker
